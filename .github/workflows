@@ -1,4 +1,4 @@
-github-actions-demo.yml
+a2badc195a23cc7f0bc2945678cd82381b81c6e9github-actions-demo.yml
 name: GitHub Actions Demo
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
