@@ -1,0 +1,5 @@
+git clone https://github.com/https-chirishops-myshopify-com/Hidrogen.git \
+&& cd Hidrogen \
+&& echo "PUBLIC_STORE_DOMAIN=chirishops.myshopify.com\nPUBLIC_STOREFRONT_API_TOKEN=348d6193d27e4427156de1b3c865e698\nSESSION_SECRET=LOCAL_SECRET" >> .env \
+&& yarn \
+&& yarn dev
